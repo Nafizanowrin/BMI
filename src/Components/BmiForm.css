@@ -1,0 +1,28 @@
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .form-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form-container label {
+    margin-bottom: 5px;
+  }
+  
+  .form-container input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+  }
+  
+  .form-container button {
+    padding: 10px 20px;
+    background-color: #011020;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
